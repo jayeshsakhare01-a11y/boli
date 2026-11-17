@@ -1,0 +1,22 @@
+# Binaries & build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+backend/bidmatrix.exe
+bidmatrix.exe
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
