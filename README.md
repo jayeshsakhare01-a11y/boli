@@ -5,12 +5,13 @@
 
 ## 📌 Project Overview & Team Information
 - **Project Title:** Boli — Real-Time Verified Vehicle & Asset Auctions
-- **Course:** Fundamentals of Data Structures (FDS) / Data Structures & Algorithms (DSA)
+- **Course:** Fundamentals of Data Structures (FDS)
 - **Academic Year:** 2025–2026
-- **Department:** Department of Computer Engineering / Information Technology
-- **Project Guide:** [Guide Name / Faculty Name]
+- **Institution:** Vishwakarma Institute of Technology (VIT) / VIIT Pune
+- **Project Guide:** Prof. Suruchi Dedgaonkar (`suruchi.dedgaonkar@vit.edu` / `suruchi.dedgaonkar@viit.ac.in`)
+- **GitHub Repository:** [https://github.com/jayeshsakhare01-a11y/boli](https://github.com/jayeshsakhare01-a11y/boli)
 - **Team Members:**
-  - Jayesh Sakhare (Roll No: [Your Roll No])
+  - Jayesh Sakhare
   - [Team Member 2 Name] (Roll No: [Roll No])
   - [Team Member 3 Name] (Roll No: [Roll No])
 
